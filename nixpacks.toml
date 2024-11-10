@@ -1,3 +1,4 @@
 [phases.setup]
 language = "python"
 version = "3.12"
+apt_packages = ["cairo", "pango", "gdk-pixbuf"]
